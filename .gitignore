@@ -1,0 +1,10 @@
+node_modules/
+data_exchange
+dz
+proc_start_test
+sinchronizers
+copy_in_thread.py
+info.md
+multiprocessing_sample.py
+multithreading_sample.py
+thread_sample.py
